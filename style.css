@@ -1,0 +1,75 @@
+
+body{
+    background-image:url("lyon.png");
+    background-repeat: no-repeat;
+    background-size: 2400px ;
+    font-family: sans-serif;
+}
+.form{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 550px;
+    top: 100PX;
+}
+#title{
+    width: 300px;
+    height:100px;
+    display:flex;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    background-color: rgba(35, 6, 6, 0.719);
+    border-top-left-radius: 40PX;
+    border-top-right-radius: 40px;
+
+}
+.contenu{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 150px;
+    height:150px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    color: white;
+}
+#ville{
+    background-color: rgba(35, 10, 6, 0.710);
+}
+#temp{
+    background-color: rgba(35, 10, 6, 0.680);
+}
+    #vent{
+    background-color: rgba(35, 10, 6, 0.650);
+}
+#hum{
+    background-color: rgba(5, 10, 6, 0.620);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#prev{
+    width: 300px;
+    height:100px;
+    display:flex;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    border-bottom-left-radius: 40PX ;
+    border-bottom-right-radius: 40PX ;
+    background-color: rgba(35, 6, 6, 0.719);}

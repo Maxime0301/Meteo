@@ -1,0 +1,15 @@
+{
+    "coord":{"lon":4.5833,"lat":45.75},
+    "weather":[{"id":803,"main":"Clouds","description":"nuageux","icon":"04d"}],
+    "base":"stations",
+    "main":{"temp":25.66,"feels_like":25.46,"temp_min":22.75,"temp_max":26.44,"pressure":1014,"humidity":45},
+    "visibility":10000,
+    "wind":{"speed":0.57,"deg":8,"gust":1.31},
+    "clouds":{"all":75},
+    "dt":1688029532,
+    "sys":{"type":2,"id":2007821,"country":"FR","sunrise":1688010867,"sunset":1688067323},
+    "timezone":7200,
+    "id":2996943,
+    "name":"Lyon",
+    "cod":200
+}
